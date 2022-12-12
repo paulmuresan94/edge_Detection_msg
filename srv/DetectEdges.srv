@@ -1,0 +1,3 @@
+string path_to_image
+---
+sensor_msgs/Image edge_img
